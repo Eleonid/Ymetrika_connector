@@ -5,7 +5,7 @@ Created on Mon Dec 25 12:33:08 2017
 @author: leonid.enov
 """
 
-# File for downloading Karcher data from Yandex Metrika and uploading it to Google Bigquery
+# File for downloading data from Yandex Metrika and uploading it to Google Bigquery
 
 # Import libs to interact with Google Bigquery and Yandex Metrika API, create and manage files
 import requests
